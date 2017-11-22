@@ -1,0 +1,9 @@
+# .gitignore
+
+# files listed here will not be tracked by git
+
+# files which are, temporary, previous versions of other files
+*~
+
+# files which may contain sensitive information such as passwords.
+site-config.php
