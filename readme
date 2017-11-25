@@ -1,0 +1,31 @@
+Sat 25 Nov 2017
+
+Website Shaula.
+
+This will be set to domain name shaula.org.uk currently hosted with 1&1.co.uk.
+
+Currently developing locally using lampp on my laptop
+
+Tracking with git.
+
+Project Specification:
+
+Public website (index.php):
+Home Page: photo of Shaula, description of her, 
+Log: Showing voyage
+Blog: Some articles on specific aspects of Shaula
+
+Admin website (admin.php)
+Home Page: really just navigation to the other admin pages which are:
+Upload Log
+Upload Blog
+Upload Manual
+Upload Document
+Edit Logs
+Edit Blogs
+Edit Manuals
+Edit Documents
+
+
+
+
