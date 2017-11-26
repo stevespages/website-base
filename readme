@@ -28,6 +28,8 @@ Edit Blogs
 Edit Manuals
 Edit Documents
 
+The showLogForm function, defined in views/admin/functions.php, is used in three contexts: From log.php controller when called through navigation or directly by typing in url. Also from log.php when data posted from the log form back to log.php fails to validate. In this case the data should be kept in the form values and appropriate error messages displayed. The third context where showLogForm is used is from the edit-logs.php. In this case the form should display the values selected from the database by the getLogToEdit method of the LogTable class defined in Log_Table.class.php
+
 
 
 
